@@ -1,0 +1,9 @@
+/var/spool/slurmd/job541514/slurm_script: rad 3: //#SBATCH: Filen eller katalogen finns inte
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 2 slots
+that were requested by the application:
+  ./pingpong
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
